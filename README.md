@@ -1,0 +1,1 @@
+# setup_file_for_monogame_with_libraries
