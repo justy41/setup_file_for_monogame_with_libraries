@@ -17,4 +17,4 @@ In Visual Studio Code you can use the ```dotnet mgcb-editor ./Content/Content.mg
 * Now run the project with the solution explorer or with the "dotnet run" command.
 
 ## Further reading
-you can read more details about the project here: https://github.com/justinpotato41/Monogame-Template-With-Libraries
+you can read more details about the project here: https://github.com/justy41/Monogame-Template-With-Libraries
