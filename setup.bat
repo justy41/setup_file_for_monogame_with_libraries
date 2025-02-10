@@ -4,7 +4,7 @@ dotnet new mgdesktopgl -n MyGame
 dotnet sln add MyGame
 dotnet restore
 cd MyGame
-git clone https://github.com/justinpotato41/Monogame-Template-With-Libraries.git
+git clone https://github.com/justy41/Monogame-Template-With-Libraries.git
 del Game1.cs
 move Monogame-Template-With-Libraries\Game1.cs ./
 move Monogame-Template-With-Libraries/ART Content
