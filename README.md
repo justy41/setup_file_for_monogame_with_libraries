@@ -1,7 +1,7 @@
 # setup_file_for_monogame_with_libraries
 
 This is a setup.bat file that will generate a monogame project with different libraries.
-It takes a template I made for myself at this link: https://github.com/justinpotato41/Monogame-Template-With-Libraries
+It takes a template I made for myself at this link: https://github.com/justy41/Monogame-Template-With-Libraries
 It's suggested for people who already now monogame.
 
 ## Installing
